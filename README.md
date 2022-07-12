@@ -27,7 +27,8 @@ $ git clone https://github.com/SCHABOWYpro/email_sorting_script.git
 ```
 <h2>How to use the script</h2>
 <ol>
-  <li>Open command line, by clicking WIN+R and typing "CMD" on Windows system.</li>
+  <li>You can open this code with any Integrated Development Environment.</li>
+  <li>If you don't have any IDE on your computer, open command line, by clicking WIN+R and typing "CMD" on Windows system.</li>
   <li>Navigate to directory where you have downloaded this scripit using "..cd/" in command line.</li>
   <li>Inside directory "email_sorting_script-master", run program "main.py".</li>
   <li>After running the script, instruction will be displayed inside the console.</li>

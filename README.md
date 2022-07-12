@@ -32,6 +32,7 @@ $ git clone https://github.com/SCHABOWYpro/email_sorting_script.git
   <li>Navigate to directory where you have downloaded this scripit using "..cd/" in command line.</li>
   <li>Inside directory "email_sorting_script-master", run program "main.py".</li>
   <li>After running the script, instruction will be displayed inside the console.</li>
+  <li>To quit program simply type: stop</li>
   <li>If you want to display list of incorrect emails, type:</li>
     <ul>
       <li>"--incorrect-emails" or "-ic"</li>
@@ -52,5 +53,5 @@ $ git clone https://github.com/SCHABOWYpro/email_sorting_script.git
       <li>Program will ask user for logfile URL: "Add logfile URL".</li>
       <li>Paste URL with RAW logfile.</li>
   </ul>
-  
+  <li>To quit program simply type: "stop"</li>
 </ol>
